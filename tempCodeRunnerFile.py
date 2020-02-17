@@ -1,1 +1,1 @@
-(0,0)
+character_menu.children["menu"].add_command(label=c, command=lambda char =c: ch.selected_character.set(char))
